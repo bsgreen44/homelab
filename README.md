@@ -1,6 +1,7 @@
 # Home Infrastructure Lab (2024 – Current)
 An on premise self-hosted infrastructure environment for accelerated learning in IT, System Administration and DevOps.
 
+[Click here for Resume](https://github.com/bsgreen44/homelab/blob/main/Resume_BG.pdf)
 
 ## Hardware
 
@@ -85,9 +86,11 @@ GeeekPi 10 inch 8U Server Cabinet that contains network infrastructure, NAS and 
 - NAS PSU
 
 ## SaaS
-- **Cloudflare** - CDN and DNS provider
-- **Tailscale**  - VPN service for remote access
-- **Proton VPN** - Secure internet traffic across network
+**Cloudflare** - CDN and DNS provider
+
+**Tailscale**  - VPN service for remote access
+
+**Proton VPN** - Secure internet traffic across network
 
 ---
 # SECTION BELOW IS IN PROGRESS
