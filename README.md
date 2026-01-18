@@ -1,7 +1,7 @@
-# Home Infrastructure Lab (2024 – Current)
+# Home Infrastructure Lab
 An on premise self-hosted infrastructure environment for accelerated learning in IT, System Administration and DevOps.
 
-[Click here for Resume](https://github.com/bsgreen44/homelab/blob/main/Resume_BG.pdf)
+[Click here for Resume](Resume.pdf)
 
 ## Hardware
 
