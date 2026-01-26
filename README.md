@@ -3,6 +3,9 @@ An on premise self-hosted infrastructure environment for accelerated learning in
 
 [Click here for Resume](Resume.pdf)
 
+## Netowrk Diagram
+<img width="1142" height="810" alt="image" src="https://github.com/user-attachments/assets/9a852ece-053c-4172-ab03-7e2daeb67e06" />
+
 ## Hardware
 
 ### NAS
@@ -91,24 +94,3 @@ GeeekPi 10 inch 8U Server Cabinet that contains network infrastructure, NAS and 
 **Tailscale**  - VPN service for remote access
 
 **Proton VPN** - Secure internet traffic across network
-
----
-# SECTION BELOW IS IN PROGRESS
-
-**Networking (Unifi)**
-- Deploy and manage 4 VLAN to ensure secure network segmentation
-- Implement firewall, IDS and IPS policies that have successfully notified and blocked inter VLAN traffic, incoming and outgoing traffic
-- Manage a local DNS server for over 20 devices that contains local DNS records and filters queries to provide network wide security and privacy
-- Deploy a VPN server to provide users secure remote access to services
-
-**Virtualization & Containerization (Proxmox, Docker)**
-- Deploy and oversee 30+ containers and VMs on a Type 1 hypervisor
-- Manage resource allocation to optimize performance and efficiency of hardware
-- Automate weekly backup and update schedules to maximize efficiency
-
-**Storage Solution (TrueNAS)**
-- Deploy storage redundancy and disaster recovery policies to ensure data integrity and availability
-
-**Monitoring and Automation**
-- Design and deploy frontend applications to monitor and automate backend services
-- Utilize tools such as n8n (automation) and Home Assistant (IoT automation and monitoring) to communicate with APIs using TCP/IP, HTTP/HTTPS and SSH protocols
