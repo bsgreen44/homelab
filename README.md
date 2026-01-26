@@ -1,6 +1,9 @@
 # Home Infrastructure Lab
 An on premise self-hosted infrastructure environment for accelerated learning in IT, System Administration and DevOps.
 
+## Background
+Just a guy that enjoys learning, building and breaking stuff (mostly breaking). Check out my resume if you want to see my technical background.
+
 [Click here for Resume](Resume.pdf)
 
 ## Netowrk Diagram
