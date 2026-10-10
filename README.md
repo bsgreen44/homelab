@@ -4,10 +4,10 @@ An on premise self-hosted infrastructure environment for accelerated learning in
 ## Background
 Just a guy that enjoys learning, building and breaking stuff (mostly breaking). Check out my resume if you want to see my technical background.
 
-[Click here for Resume](Resume.pdf)
+[Click here for Resume](Resume.pdf?raw=true)
 
 ## Network Diagram
-![Network Diagram](Network Diagram.png)
+![Network Diagram](Network%20Diagram.png)
 
 ## Hardware
 
