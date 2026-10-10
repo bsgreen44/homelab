@@ -7,7 +7,7 @@ Just a guy that enjoys learning, building and breaking stuff (mostly breaking). 
 [Click here for Resume](Resume.pdf)
 
 ## Network Diagram
-<img width="1142" height="810" alt="image" src="https://github.com/user-attachments/assets/9a852ece-053c-4172-ab03-7e2daeb67e06" />
+![Network Diagram](Network Diagram.png)
 
 ## Hardware
 
